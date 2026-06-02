@@ -14,4 +14,4 @@ Redesign an existing website to improve usability and visual appeal.
 - Figma
 
 ## Outcome
-Improved user experience, visual hierarchy, and responsive layouts.
+Improved user experience and responsive design.
